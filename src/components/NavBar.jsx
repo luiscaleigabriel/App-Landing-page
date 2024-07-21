@@ -3,7 +3,7 @@ import { useState } from "react"
 export default function NavBar() {
   const [nav, setNav] = useState(false)
   const changeBackgrond = () => {
-    if(window.screenY >= 50) {
+    if(window.scrollY >= 50) {
       setNav(true)
     }else {
       setNav(false)

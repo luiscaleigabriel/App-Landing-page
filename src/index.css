@@ -158,9 +158,6 @@ padding: 50px 5% 0px 5%;
 position: relative;
 }
 
-.App .about:last-child {
-  background: transparent;
-}
 
 .about-text{
   width: 45%;
