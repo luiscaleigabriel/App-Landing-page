@@ -9,9 +9,9 @@ function App() {
     <div className="App">
       <Header />
       <Feacture />
-      <About title='Comes With All You Need For Daily Life' button='Gey the App' image='/images/Frame 19.png' />
+      <About title='Vem com tudo que você precisa para a vida diária' button='Obter App' image='/images/Frame 19.png' />
       <Presentaion />
-      <About title='Download And Get Te App Now' button='Download' image='/images/download.png' />
+      <About title='Baixe E obtenha o aplicativo agora' button='Download' image='/images/download.png' />
       <Contact />
     </div>
   )

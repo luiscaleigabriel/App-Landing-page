@@ -6,7 +6,7 @@ export default function Header() {
       <NavBar />
       <div className="name">
         <h1>
-          <span>Lanuch Your App</span> With Confidence And Creativity
+          <span>Lance seu aplicativo</span> com confiança e criatividade
         </h1>
         <p className="details">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur ratione repellendus explicabo cupiditate.
